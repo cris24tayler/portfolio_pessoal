@@ -16,13 +16,15 @@
 # projeto escrita do README
 ![capa do projeto](img/capa.png)
 ## descrição
-
-## introdução
+* projeto escrita do readme.
+* pegamos uma pagina semifeita para mechermos nela
+* com acompanhamento do professor [Leonardo](https://github.com/leonardorochamarista)
 
 ## funcionalidades
-
+* vamos deixalo funcional
 ### tecnologias utilizadas
-
+* internet~google
 ## fontes utilizadas
-
+* [bootstrap](https://getbootstrap.com/)
 ## autores
+* cristian
